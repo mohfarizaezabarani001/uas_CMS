@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "karyawans",
+  "info": {
+    "singularName": "karyawan",
+    "pluralName": "karyawans",
+    "displayName": "Karyawan"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nama": {
+      "type": "string"
+    },
+    "Nomor_ID": {
+      "type": "integer"
+    },
+    "jabatan": {
+      "type": "string"
+    }
+  }
+}
